@@ -1,0 +1,39 @@
+h1{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+body{
+	background: url(../images/sup_bg.png);
+	background-size: cover;
+	background-position: top;
+}
+
+#cover{
+    align-items: center;
+    position: relative;
+}
+
+label{
+	color: white;
+	font-weight: bold;
+}
+
+textarea{
+	margin-left: 50px;
+}
+
+input{
+	margin-left: 50px;
+}
+
+#Butt{
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+table{
+	background: rgba(194,193,193,0.8);
+}

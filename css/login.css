@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	font-weight: bold;
+}
+
+label{
+	font-weight: bold;
+}
+
+textarea{
+	margin-left: 50px;
+}
+
+input{
+	margin-left: 50px;
+}
+
+#Butt{
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 50px;
+}
